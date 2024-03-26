@@ -1,0 +1,4 @@
+- university database project in Digital Humanities, subject "models"
+- lightweight Star Trek database containing movies and shows
+- created with SQLite
+- language: German
